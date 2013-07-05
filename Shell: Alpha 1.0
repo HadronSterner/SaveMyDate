@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-	<title>Save My Date!</title>
+	<title>SaveMyDate!</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 	<meta name="description" content="" />
@@ -19,7 +19,7 @@
 		</style>
 	</head>
 	<body>
-		<h1>Sa[insert heart]e My Date!</h1>
+		<h1>Save My Date!</h1>
 		<p>The only webservice providing accurate and user-friendly date advice.</p>
 		<notex> *Note: This service does not provide you with dating tips. You will need to go find your own dates.*
 		</notex>
